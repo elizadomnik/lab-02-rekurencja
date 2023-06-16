@@ -1,6 +1,6 @@
 ﻿using System;
 
-class zad9
+class zad8
 {
     static void Main()
     {
